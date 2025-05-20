@@ -78,7 +78,7 @@ Copy code
 3. **Technologies Used**: If you use any libraries or specific tools in the project, feel free to add them to the list.
 4. **Contributing**: If you are open to contributions, this section explains how others can get involved.
 
-If you'd like more help or further customization, let me know!
+
 
 Project Description
 The Blockchain Python Project is a decentralized, peer-to-peer blockchain application built with Python. It simulates a basic blockchain network where nodes can create transactions, mine blocks, and interact with other peers to validate and propagate blocks across the network. The application features a graphical user interface (GUI) built with Tkinter, allowing users to easily interact with the blockchain.
